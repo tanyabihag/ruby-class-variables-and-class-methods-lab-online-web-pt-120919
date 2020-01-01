@@ -16,8 +16,6 @@ def self.count
 end
 
 def self.artists
-  @@artists.uniq
-  
-  
-  
+  @@artists.uniq 
+end
 end
