@@ -13,4 +13,4 @@ def self.count
   @@count
 end
 
-self.genre 
+
