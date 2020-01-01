@@ -16,7 +16,7 @@ def self.count
 end
 
 def self.artists(array)
-  artists.each do |x| 
+  artists.each do 
   
   
   
