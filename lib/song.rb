@@ -15,8 +15,8 @@ def self.count
   @@count
 end
 
-def self.artists(array)
-  artists.each do 
+def self.artists
+  @@artists.uniq
   
   
   
